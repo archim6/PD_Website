@@ -2,7 +2,7 @@ name: 'Webpage in Progress'
 description: 'So much potential'
 tagline: 'yada yada'
 url: 'http://archim6.github.io'
-baseurl: '/SampleWebsite'
+baseurl: '/PD_Website'
 paginate: 10
 
 markdown: kramdown
