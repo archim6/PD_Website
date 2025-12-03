@@ -9,12 +9,9 @@ Any more generators and it might not fit on the page...
 
 <!-- ## okay using different code to make my pdf show up ## -->
 
+<img src="{{ site.baseurl }}/images/FDL(3).jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
 
 
-<object data="{{ site.baseurl }}/images/FDL(3).pdf" type="application/pdf" width="100%" height="500px">
-    <!-- Fallback content if the browser cannot display the PDF directly -->
-    <!--<a href="{{ site.baseurl }}/images/FDL(3).pdf">Download FDL(3).pdf</a> -->
-</object>
 
 <!-- <img src="{{ site.baseurl }}/images/FDL(3).pdf" class="img-responsive img-rounded" img style="margin-bottom: 10px" width='500' /> -->
 
