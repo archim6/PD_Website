@@ -1,6 +1,6 @@
 ---
-title: Page One
-author: Dana Ernst
+title: Link Page
+author: Morgan Boyers
 layout: default
 ---
 

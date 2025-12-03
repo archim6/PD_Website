@@ -1,6 +1,6 @@
 ---
-title: Page Three
-author: Dana Ernst
+title: Math Page
+author: Morgan Boyers
 layout: default
 ---
 

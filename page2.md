@@ -1,6 +1,6 @@
 ---
-title: Page Two
-author: Dana Ernst
+title: Picture Page
+author: Morgan Boyers
 layout: default
 ---
 
