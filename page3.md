@@ -4,7 +4,7 @@ author: Morgan Boyers
 layout: default
 ---
 
-## Playground
+
 
 This is the mathematics portion of the assignment requirement, and an opportunity to talk about one of my favorite theorems.
 
