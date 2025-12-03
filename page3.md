@@ -8,6 +8,6 @@ layout: default
 
 This is the mathematics portion of the assignment requirement, and an opportunity to talk about one of my favorite theorems.
 
-Let $L$ be a distributive lattice, $I$ an ideal, and $D$ a dual ideal such that $I \bigcap D = \empty$. Then there exists a prime ideal, $P \subseteq L$ such that $I \subseteq P$ and $P \bigcap D = \empty$.
+Let $L$ be a distributive lattice, $I \subset L$ an ideal, and $D \subset L$ a dual ideal such that $I \cap D = \emptyset$. Then there exists a prime ideal, $P \subset L$ such that $I \subseteq P$ and $P \cap D = \emptyset$.
 
 <!--Let $\phi : G \rightarrow H$ be a group homomorphism. Then $\phi (G) \cong G \Big/ \ker(\phi)$.
