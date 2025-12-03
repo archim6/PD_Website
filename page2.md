@@ -6,7 +6,7 @@ layout: default
 
 Any more generators and it might not fit on the page...
 
-<img src="{{ site.baseurl }}/images/FDL(3).pdf" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
+<img src="{{ site.baseurl }}/images/FDL(3).pdf" class="img-responsive img-rounded" img style="margin-bottom: 10px" width='500' />
 
 <!-- <i class="fas fa-camera fa-lg"></i>&nbsp; Photo by <a href="https://www.ultramtb.net/about-kurt-refsnider.html#/" target="_blank">Kurt Refsnider</a>
 
